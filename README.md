@@ -1,6 +1,6 @@
 This is a simple console-based Java application that allows users to perform CRUD operations (Create, Read, Update, Delete) on customer profiles. It uses getter and setter methods for encapsulation and stores customer profiles in an array as objects.
 <br>
-<h1>Features</h1>h1>
+<h1>Features</h1>
 -Create a new customer profile
 -Update an existing profile
 -View a single profile
